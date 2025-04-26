@@ -192,3 +192,7 @@ form button:hover {
     font-size: 1.1rem;
     margin-bottom: 20px;
 }
+ #contact form label {
+    color: white;
+    font-weight: bold;
+}
